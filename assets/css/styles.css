@@ -39,6 +39,11 @@ nav img {
     font-size: 30px;
 }
 
+.nav-item:active {
+    text-decoration: wavy underline;
+}
+
+
 h1 {
     font-family: 'Cookie', cursive;
     font-size: 70px;
