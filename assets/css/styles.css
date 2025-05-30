@@ -154,18 +154,21 @@ footer p {
     font-family: 'Cookie', cursive;
     font-size: 20px;
     color: purple;
+    margin-top: 10px;
 }
 
 footer a i {
-    font-size: 20px;
+    font-size: 25px;
     color: plum;
-    padding-left: 5px;
+    padding-left: 30px;
     margin-top: 10px;
 }
 
 footer a i:hover {
     color: purple;
 }
+
+
 
 
 @media (min-width: 768px) {
