@@ -30,17 +30,33 @@ nav img {
 .navbar-brand {
     font-family: 'Cookie', cursive;
     font-size: 30px;
-    color: rgb(58, 57, 57);
+    color: purple;
     text-decoration:wavy underline;
 }
 
 .nav-item {
     font-family: 'Cookie', cursive;
     font-size: 30px;
+    color: purple;   
+}
+
+.nav-item a {
+    color: purple;
 }
 
 .nav-item:active {
     text-decoration: wavy underline;
+    color: #20b2aa;
+    
+}
+
+.nav-item a.active {
+    color: #04807a !important;
+    
+}
+
+.nav-item a:hover {
+    color: #20b2aa;
 }
 
 
@@ -137,18 +153,18 @@ footer {
 footer p {
     font-family: 'Cookie', cursive;
     font-size: 20px;
-    color: rgb(58, 57, 57);
+    color: purple;
 }
 
 footer a i {
     font-size: 20px;
-    color: rgb(109, 107, 107);
+    color: plum;
     padding-left: 5px;
     margin-top: 10px;
 }
 
 footer a i:hover {
-    color: rgb(0, 0, 0);
+    color: purple;
 }
 
 
@@ -173,5 +189,9 @@ footer a i:hover {
     width: 100%;
     height: auto;
     border-radius: 10px;
+}
+
+h1 {
+    color: purple;
 }
 }
