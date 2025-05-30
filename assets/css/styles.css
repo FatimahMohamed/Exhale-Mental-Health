@@ -118,6 +118,18 @@ table a {
 table a:hover {
     color: rgb(0, 0, 0);
 }
+
+.msg {
+    background-color: plum;
+    color: rgb(58, 57, 57);
+    border-color: purple;
+}
+
+.msg:hover {
+    background-color: purple;
+    color: white;
+}
+
 footer {
     background-color: white;
 }
