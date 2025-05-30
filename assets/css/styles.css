@@ -2,12 +2,25 @@
 
 
 body {
-    background-color: whitesmoke;
+    background-color: aquamarine;
     font-family: 'roboto', sans-serif;
 }
 
+#intro {
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+}
 
-
+#intro img {
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 nav img {
     width: 60px;
@@ -87,6 +100,19 @@ card li {
     
 }
 
+.res-table, .res-table th,
+.res-table td {
+    background-color: rgb(242, 212, 242);
+}
+
+table a {
+    text-decoration:underline;
+    color: rgb(58, 57, 57);
+}
+
+table a:hover {
+    color: rgb(0, 0, 0);
+}
 footer {
     background-color: white;
 }
@@ -125,4 +151,10 @@ footer a i:hover {
         min-height: 100vh;
         
     }
+
+    #intro img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
 }
