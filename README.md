@@ -17,6 +17,35 @@ Please find a link to the live project here: [Exhale](https://fatimahmohamed.git
 
 ## Table of Contents
 
+- [Introduction](#introduction)
+- [Project Outline](#project-outline)
+- [Project Planning](#project-planning)
+  - [UX Design](#ux-design)
+    - [User Stories](#user-stories)
+  - [Colors](#colors)
+  - [Fonts](#fonts)
+  - [Wireframes](#wireframes)
+  - [Imagery](#imagery)
+- [Features](#features)
+  - [General Features](#general-features)
+    - [Navigation & Bootstrap Carousel](#navigation--bootstrap-carousel)
+    - [Bootstrap Cards](#bootstrap-cards)
+    - [Contact Form](#contact-form)
+    - [Table](#table)
+    - [Footer](#footer)
+    - [Future Development](#future-development)
+  - [Responsive Design](#responsive-design)
+- [Built With](#built-with)
+  - [Technology and Languages](#technology-and-languages)
+  - [Libraries and Frameworks](#libraries-and-frameworks)
+  - [Tools & Programs](#tools--programs)
+- [AI Implementation](#ai-implementation)
+  - [Code Creation](#code-creation)
+  - [Debugging](#debugging)
+  - [Optimize Code](#optimize-code)
+  - [Reflections on AI](#reflections-on-ai)
+- [Deployment](#deployment)
+
 ## Project Outline
 External User’s Goal: The user seeks accessible, beginner friendly information on mental health, including how to recognise common issues and manage stress, presented in a supportive and organised layout.
 
