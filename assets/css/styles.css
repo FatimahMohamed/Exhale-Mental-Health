@@ -165,7 +165,8 @@ footer p {
 footer a i {
     font-size: 25px;
     color: plum;
-    padding-left: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
     margin-top: 10px;
 }
 
