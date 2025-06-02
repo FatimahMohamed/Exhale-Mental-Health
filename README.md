@@ -23,8 +23,12 @@ Please find a link to the live project here: [Exhale](https://fatimahmohamed.git
   - [UX Design](#ux-design)
     - [User Stories](#user-stories)
   - [Colors](#colors)
+    - [Main Palette](#main-palette)
   - [Fonts](#fonts)
   - [Wireframes](#wireframes)
+    - [Mobile Wireframes](#mobile-wireframes)
+    - [Tablet Wireframes](#tablet-wireframes)
+    - [Desktop Wireframes](#desktop-wireframes)
   - [Imagery](#imagery)
 - [Features](#features)
   - [General Features](#general-features)
@@ -45,6 +49,14 @@ Please find a link to the live project here: [Exhale](https://fatimahmohamed.git
   - [Optimize Code](#optimize-code)
   - [Reflections on AI](#reflections-on-ai)
 - [Deployment](#deployment)
+- [Testing](#testing)
+  - [Validation](#validation)
+    - [HTML](#html)
+    - [CSS](#css)
+  - [Lighthouse](#lighthouse)
+- [Credits](#credits)
+  - [Code](#code)
+  - [Media](#media)
 
 ## Project Outline
 External User’s Goal: The user seeks accessible, beginner friendly information on mental health, including how to recognise common issues and manage stress, presented in a supportive and organised layout.
@@ -96,15 +108,21 @@ The font should be easy to read and create a relaxing atmosphere for the website
 ![First mobile wireframe](assets/images/Readme/Exhale%20Wireframes/Phone%201.png)
 
 ![Second mobile Wireframe](assets/images/Readme/Exhale%20Wireframes/Phone%202.png)
+
 ![Third mobile Wireframe](assets/images/Readme/Exhale%20Wireframes/Phone%203.png)
+
 ![Fourt mobile wireframe](assets/images/Readme/Exhale%20Wireframes/Phone%204.png)
 
 #### Tablet Wireframes
 
 ![First tablet wireframe](assets/images/Readme/Exhale%20Wireframes/Tablet%201.png)
+
 ![Second tablet wireframe](assets/images/Readme/Exhale%20Wireframes/Tablet2.png)
+
 ![Third tablet wireframe](assets/images/Readme/Exhale%20Wireframes/Tablet%203.png)
+
 ![Fourth tablet wireframe](assets/images/Readme/Exhale%20Wireframes/Tablet%204.png)
+
 ![Fifth tablet wireframe](assets/images/Readme/Exhale%20Wireframes/Tablet%205.png)
 
 #### Desktop Wireframes
@@ -218,5 +236,52 @@ AI was extraordinarily helpful in debugging and code creation. It was quick in p
 ## Deployment
 The website was deployed to Github. The deployment was tested to make sure it matches the developmental version. Github was used for version control. As I was coding, I made regular commits to Github to ensure the website was properly saved. Commented out codes were removed from the final commit. All internal links and interactive elements function correctly.
 
+## Testing
 
+### Validation
 
+#### HTML
+
+No errors found on either page.
+
+![html validator showing no errors](assets/images/Readme/html%20val.png)
+
+#### CSS
+
+No errors found by CSS validator
+
+![CSS validator showing no errors](assets/images/Readme/css-val.png)
+
+### Lighthouse
+
+A lighthouse audit was carried out using Chrome Devtools for each page.
+
+Home Page:
+
+![Lighthouse Home Page Audit](assets/images/Readme/homelh.png)
+
+Common Mental Health Issues Page:
+
+![Lighthouse Common Mental Health Issues Page Audit](assets/images/Readme/issueslh.png)
+
+Stress Management Techniques Page:
+
+![Lighthouse Stress Management Techniques Page Audit](assets/images/Readme/stresslh.png)
+
+Resources Page:
+
+![Lighthouse Resources Page Audit](assets/images/Readme/resourceslh.png)
+
+Contact Page:
+
+![Lighthouse Contact Page Audit](assets/images/Readme/contactlh.png)
+
+## Credits
+
+### Code
+
+Project and learning delivered by Code Institute.
+Github Copilot developed segments of code and aided in debugging.
+
+### Media
+All images were acquired from Istock.
