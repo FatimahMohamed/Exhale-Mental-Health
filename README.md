@@ -128,9 +128,13 @@ The font should be easy to read and create a relaxing atmosphere for the website
 #### Desktop Wireframes
 
 ![First desktop wireframe](assets/images/Readme/Exhale%20Wireframes/Computer1.png)
+
 ![Second desktop wireframe](assets/images/Readme/Exhale%20Wireframes/Computer%202.png)
+
 ![Third desktop wireframe](assets/images/Readme/Exhale%20Wireframes/Computer%203.png)
+
 ![Fourth desktop wireframe](assets/images/Readme/Exhale%20Wireframes/Computer%204.png)
+
 ![Fifth desktop wireframe](assets/images/Readme/Exhale%20Wireframes/Computer%205.png)
 
 ### Imagery
